@@ -1,0 +1,12 @@
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+/.DS_store
+maven-eclipse.xml
+target/
+out/
+
+.DS_Store/catalina.base_IS_UNDEFINED/
+**/.DS_Store
